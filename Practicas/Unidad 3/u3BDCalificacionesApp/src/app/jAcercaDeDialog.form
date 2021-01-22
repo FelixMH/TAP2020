@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="mx.tecnm.itl.beans.jAcercaDe" name="jAcercaDe1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jAcercaDe2" min="-2" pref="705" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="10" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="22" max="32767" attributes="0"/>
+              <Component id="jAcercaDe2" min="-2" pref="311" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="mx.tecnm.itl.beans.jAcercaDe" name="jAcercaDe2">
+      <Properties>
+        <Property name="carrera" type="java.lang.String" value="Ing. Sistemas Computacionales"/>
+        <Property name="desarrollador" type="java.lang.String" value="F&#xe9;lix Gerardo Mart&#xed;nez Hinojo"/>
+        <Property name="desarrollador2" type="java.lang.String" value=""/>
+        <Property name="desarrollador3" type="java.lang.String" value=""/>
+        <Property name="desarrollador4" type="java.lang.String" value=""/>
+        <Property name="institucion" type="java.lang.String" value="Tecnol&#xf3;gico Nacional de M&#xe9;xico"/>
+        <Property name="materia" type="java.lang.String" value="T&#xf3;picos Avanzados De Programaci&#xf3;n"/>
+        <Property name="nombre" type="java.lang.String" value="Acceso a Bases de datos"/>
+        <Property name="version" type="java.lang.String" value="1.0.0"/>
+        <Property name="universidad" type="java.lang.String" value="Instituto Tecnol&#xf3;gico De La Laguna"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

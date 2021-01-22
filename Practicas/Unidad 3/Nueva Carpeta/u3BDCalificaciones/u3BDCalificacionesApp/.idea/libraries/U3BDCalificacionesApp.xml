@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="u3BDCalificacionesApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/u3BDCalificacionesApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

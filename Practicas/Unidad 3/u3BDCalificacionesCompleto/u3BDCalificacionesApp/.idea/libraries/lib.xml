@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/U3BDCalificacionesApp/dist/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/U3BDCalificacionesApp/dist/lib/U2Lib2020.jar!/" />
+      <root url="jar://$PROJECT_DIR$/U3BDCalificacionesApp/dist/lib/derbyclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
